@@ -1,2 +1,2 @@
 # loans
-Develop Loans Microservice for Bank Domain
+Developing Loans Microservices for Banking Domain.
